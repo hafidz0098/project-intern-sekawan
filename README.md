@@ -1,5 +1,9 @@
 # project-intern-sekawan
- 
+
+# clone repository
+# composer install
+# php artisan migrate:fresh --seed untuk seeding database
+
 admin
 email : admin@gmail.com
 pass : 12345
